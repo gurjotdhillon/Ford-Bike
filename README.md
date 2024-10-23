@@ -5,12 +5,13 @@ This project explores the Ford GoBike dataset to understand customer behavior an
 ## Objectives
 The primary goals of this analysis are to:
 
-Identify the busiest stations in the system.
-Determine peak usage hours and how they differ by gender.
-Analyze trip patterns across different days of the week.
-Explore the age and gender demographics of riders.
-Compare the number of subscribers vs. casual customers.
-Investigate the correlation between rider age and trip start time.
+* Identify the busiest stations in the system.
+* Determine peak usage hours and how they differ by gender.
+* Analyze trip patterns across different days of the week.
+* Explore the age and gender demographics of riders.
+* Compare the number of subscribers vs. casual customers.
+* Investigate the correlation between rider age and trip start time.
+* 
 Dataset
 The dataset used in this project was provided by Udacity as part of its Data Analyst Nanodegree program. It contains information about individual rides made in the Ford GoBike bike-sharing system in the San Francisco Bay area.
 
